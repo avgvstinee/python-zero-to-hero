@@ -1,5 +1,4 @@
 # python-zero-to-hero
-# 🐍 kholofelo-python-core
 
 Welcome to my Python Fundamentals repo — where I’m mastering the basics to build toward AI, Machine Learning, and Agentic Systems.
 
