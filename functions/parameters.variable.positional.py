@@ -1,5 +1,5 @@
 
-# variable positional parameters
+# variable positional parameters (*args)
 
 def minimum(*n):
     # print(n)  # n is a tuple
