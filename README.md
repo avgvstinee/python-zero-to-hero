@@ -33,10 +33,10 @@ By mastering these foundations, you’ll be prepared to explore:
 
 ---
 
-## ✨ Author
+## Author
 
-**Kholofelo (AKIRA)**  
+**Kholofelo Augustine**  
 Cloud Data Engineer | AI & ML Enthusiast  
-📍 SEACOM LTD  
-💡 “Laying the foundation for tomorrow’s intelligent systems — one Python script at a time.”
+SEACOM LTD  
+“Laying the foundation for tomorrow’s intelligent systems — one Python script at a time.”
 
