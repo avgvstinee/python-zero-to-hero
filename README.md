@@ -1,4 +1,2 @@
-This repository focuses on building **foundational Python skills** essential for powering **AI agents**, **machine learning pipelines**, and **deep learning systems**.  
-It’s designed to strengthen the core Python concepts every **ML engineer** and **AI developer** needs — from data handling and automation to modular programming and scalability.  
+This repo represents the fundamentals of clean, concise, pythonic code that will equips the beginners to start a journey in Data Engineering , Machine Learning, Data Analysis and Artificial Intelligence.
 
-The goal is to master the fundamentals that enable the creation of **agentic AI** and **intelligent applications** in the real world.
