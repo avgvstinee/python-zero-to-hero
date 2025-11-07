@@ -1,5 +1,5 @@
 
-# return mutiple values from a function
+# return multiple values from a function
 
 def moddiv(number1, number2):
     
