@@ -1,0 +1,6 @@
+
+items = 'ABCD'
+
+pairs = [ (items[s] , items[r]) for s in range(len(items)) for r in range(s, len(items)) ]
+
+print(pairs)  # Output: [('A', 'A'), ('A', 'B'), ('A', 'C'), ('A', 'D'), ('B', 'B'), ('B', 'C'), ('B', 'D'), ('C', 'C'), ('C', 'D'), ('D', 'D')]
